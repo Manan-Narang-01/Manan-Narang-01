@@ -23,5 +23,18 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xDaBix&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📂 My Repositories
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Here are some of my favorite repositories that I’ve worked on:
+
+## 🔧 Project 1
+[![Project 1](https://img.shields.io/badge/Project%20One-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xDaBix/steamhub)
+
+## 🔧 Project 2
+[![Project 2](https://img.shields.io/badge/Project%20Two-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xDaBix/aspsalon)
+
+## 🔧 Project 3
+[![Project 3](https://img.shields.io/badge/Project%20Three-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xDaBix/studybuddy)
+
+[Check out all my repositories on GitHub](https://github.com/xDaBix?tab=repositories)
+

@@ -37,7 +37,7 @@ Here are some of my favorite repositories that I’ve worked on:
 [![Project 3](https://img.shields.io/badge/Project%20Three-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xDaBix/studybuddy)
 
 ## 🔧 Immersive Home 
-[![Project 4](https://img.shields.io/badge/Project%20Three-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvRai82/Immersive-homes)
+[![Project 4](https://img.shields.io/badge/Project%20Four-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvRai82/Immersive-homes)
 
 
 
